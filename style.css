@@ -36,12 +36,16 @@ li {
 #quote {
   text-align: center;
   font-size: 15pt;
+  padding-left: 130px;
+  padding-right: 130px;
 }
 
 #quoteauthor {
   text-align: center;
   font-size: 12pt;
   padding-bottom: 10px;
+  padding-left: 130px;
+  padding-right: 130px;
 }
 
 #covidbackground {
