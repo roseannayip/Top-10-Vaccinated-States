@@ -18,7 +18,7 @@ a:link, a:visited {
 }
 
 h1 {
-  font-size: 60pt;
+  font-size: 50pt;
   font-family: 'Roboto Condensed', sans-serif;
   font-weight: bold;
   text-align: center;
@@ -26,21 +26,21 @@ h1 {
 }
 
 h2 {
-  font-size: 25pt;
+  font-size: 20pt;
 }
 
 li {
-  font-size: 18pt;
+  font-size: 15pt;
 }
 
 #quote {
   text-align: center;
-  font-size: 18pt;
+  font-size: 15pt;
 }
 
 #quoteauthor {
   text-align: center;
-  font-size: 15pt;
+  font-size: 12pt;
   padding-bottom: 10px;
 }
 
@@ -48,7 +48,7 @@ li {
   padding: 10px;
   padding-left: 130px;
   padding-right: 130px;
-  font-size: 18pt;
+  font-size: 15pt;
   text-align: justify;
 }
 
@@ -60,7 +60,7 @@ li {
 #footer {
   text-align: left;
   padding-top: 60px;
-  font-size: 10pt;
+  font-size: 12pt;
 }
 
 p.small {
