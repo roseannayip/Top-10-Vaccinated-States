@@ -46,8 +46,8 @@ li {
 
 #covidbackground {
   padding: 10px;
-  padding-left: 150px;
-  padding-right: 150px;
+  padding-left: 130px;
+  padding-right: 130px;
   font-size: 18pt;
   text-align: justify;
 }
@@ -60,11 +60,11 @@ li {
 #footer {
   text-align: left;
   padding-top: 60px;
-  font-size: 5pt;
+  font-size: 10pt;
 }
 
 p.small {
-  line-height: 1;
-  padding-left: 150px;
-  padding-right: 150px;
+  line-height: 1.5;
+  padding-left: 130px;
+  padding-right: 130px;
 }
