@@ -36,22 +36,22 @@ li {
 #quote {
   text-align: center;
   font-size: 15pt;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 110px;
+  padding-right: 110px;
 }
 
 #quoteauthor {
   text-align: center;
   font-size: 12pt;
   padding-bottom: 10px;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 110px;
+  padding-right: 110px;
 }
 
 #covidbackground {
   padding: 10px;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 110px;
+  padding-right: 110px;
   font-size: 15pt;
   text-align: justify;
 }
@@ -69,6 +69,6 @@ li {
 
 p.small {
   line-height: 1.2;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 110px;
+  padding-right: 110px;
 }
